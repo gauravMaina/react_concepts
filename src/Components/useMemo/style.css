@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.use-memo-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+}
+
+.counter-value{
+    margin-left: 10px;
+    font-size: large;
+    color: green;
+}
+
+.btn{
+    padding: 10px 20px 10px 20px;
+    background-color: blue;
+    border-radius: 10px;
+    border-color: blue;
+}
