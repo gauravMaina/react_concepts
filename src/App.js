@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import ErrorBoundary1 from './Components/ErrorBoundary/ErrorBoundary';
+import Parent from './Components/ForwardRef/Parent';
 
 function App() {
   return (
-    <ErrorBoundary1/>
+    <Parent/>
   );
 }
 
